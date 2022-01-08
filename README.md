@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pedroboseximenes
-- 👋 Speak english and portguese 
+- 👋 Speak english and portuguese 
 - 👀 I’m interested in python
 - 🌱 I’m currently learning C
 
