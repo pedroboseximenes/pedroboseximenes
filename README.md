@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @pedroboseximenes
-- 👋 Speak english and portuguese 
-- 👀 I’m interested in python
-- 🌱 I’m currently learning C
+**Hi there, I'm Pedro Ximenes** 👩‍💻
+🔭 **Currently work:** 
+👨‍🎓 **Studying:** Computer Science at UFF (Universidade Federal do Fluminense)
+🌱 **Learning:** Html, Css and C
+🎒 **Main Tools:** Visual Studio, PyCharm and Replit
 
 <!---
 pedroboseximenes/pedroboseximenes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
