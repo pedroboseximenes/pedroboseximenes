@@ -1,4 +1,4 @@
-<pre>**Hi there, I'm Pedro Ximenes** 👩‍💻 </pre>
+<b>**Hi there, I'm Pedro Ximenes** 👩‍💻 </b>
 🔭 **Currently work:** 
 👨‍🎓 **Studying:** Computer Science at UFF (Universidade Federal do Fluminense)
 🌱 **Learning:** Html, Css and C
