@@ -1,4 +1,4 @@
-#**Hi there, I'm Pedro Ximenes** 👩‍💻 \
+**# Hi there, I'm Pedro Ximenes** 👩‍💻 \
 \
 🔭 **Currently work:** \
 👨‍🎓 **Studying:** Computer Science at UFF (Universidade Federal do Fluminense)\
