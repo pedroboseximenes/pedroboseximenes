@@ -2,5 +2,5 @@
 \
 🔭 **Currently working at:** UFF\
 👨‍🎓 **Studying:** Computer Science at UFF (Universidade Federal do Fluminense)\
-🌱 **Learning:** Html, Css and C, Unity \
-🎒 **Main Tools:** Visual Studio, PyCharm and Replit
+🌱 *Language*:** Python, HTML & Css, Java and Postgresql \
+🎒 **Main Tools:** Visual Studio, PyCharm and Git
