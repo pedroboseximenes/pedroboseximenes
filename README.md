@@ -1,7 +1,32 @@
-# **Hi there, I'm Pedro Ximenes** 👩‍💻 
+# **Pedro Ximenes** 👩‍💻 
 \
-🔭 **Currently working at:** BNDES \
-:computer: **Working with:** Angular, Java, MySql\
-👨‍🎓 **Studying:** Computer Science at UFF (Universidade Federal do Fluminense)\
-🌱 **Language:** Python, HTML & Css, Java, TypeScript & JavaScript and MYSQL \
-🎒 **Main Tools:** Visual Studio, PyCharm, Eclipse and Git
+
+🎓 Desenvolvedor  
+💻 Interesse em Machine Learning, Java e Ciência de Dados  
+📊 Experiência com SQL, Java, Python, Angular, C.
+👨‍🎓 Bacharel em Ciência da Computação na UFF (Universidade Federal do Fluminense)\
+
+
+---
+
+## 🚀 Tecnologias que utilizo
+- Java
+- SQL
+- Python
+- Angular
+- Git & GitHub
+
+---
+## 🎒 Ferramentas que utilizo
+- Visual Studio
+- Eclipse
+
+---
+
+## 📈 GitHub Stats
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
+
+---
+
+## 📫 Como me encontrar
+- LinkedIn: [https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/pedro-henrique-bose-ximenes/)
